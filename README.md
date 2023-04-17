@@ -1,5 +1,6 @@
-# Angular Header Footer
+# Angular App
 
-![image](https://user-images.githubusercontent.com/98203936/232360808-bba0f178-c435-4d58-855a-f2aa6dc596d3.png)
+![image](https://user-images.githubusercontent.com/98203936/232575998-2ae03d0e-9c43-4d9f-a0a9-e4af6fb6881a.png)
 
-[LIVE DEMO](https://genuine-banoffee-a5b0f7.netlify.app/)
+
+[LIVE DEMO](https://startling-twilight-1729f2.netlify.app/)
